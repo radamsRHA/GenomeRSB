@@ -4,7 +4,7 @@ contig-level and scaffold-level assemblies as well as full structural and functi
 
 ## Directory Overview
 
-### Asseembly
+### Assembly
 Contains genome assemblies and QC reports.
  - RSB_genome.fa.bz2 — genome assembly
  - HC_report/ — Hi‑C scaffolding results and heatmaps 
