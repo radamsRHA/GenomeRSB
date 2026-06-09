@@ -1,6 +1,1 @@
 *.fa.bz2 filter=lfs diff=lfs merge=lfs -text
-*.fasta filter=lfs diff=lfs merge=lfs -text
-*/*.fa.bz2 filter=lfs diff=lfs merge=lfs -text
-*/*/*.fa.bz2 filter=lfs diff=lfs merge=lfs -text
-*/*/*/*.fa.bz2 filter=lfs diff=lfs merge=lfs -text
-Annotation/RSB_Annotation_Results/00.Genome/RSB_genome.fa.bz2 filter=lfs diff=lfs merge=lfs -text
